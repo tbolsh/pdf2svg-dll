@@ -3,7 +3,7 @@ pdf2svg
 
 A simple PDF to SVG converter using the Poppler and Cairo libraries.
 
-For Windows binaries see <https://github.com/tbolsh/pdf2svg-windows>.
+For Windows binaries see <https://github.com/tbolsh/pdf2svg-windows-64>.
 
 C# usage example:
 ```
